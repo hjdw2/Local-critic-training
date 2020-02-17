@@ -16,7 +16,7 @@ For any question or suggestions, feel free to contact hjlee92@yonsei.ac.kr
 
 Clone and cd into the repo directory, run: 
 ```
-python main.py 
+python LC(3).py 
 ``` 
 
 ## Result
