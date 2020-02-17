@@ -14,9 +14,9 @@ For any question or suggestions, feel free to contact hjlee92@yonsei.ac.kr
 
 ## Run
 
-Clone and cd into the repo directory, run: 
+Clone and cd into the repo directory, run for LC (3): 
 ```
-python LC(3).py 
+python LC_k_3_paral_modi_101.py.py 
 ``` 
 
 ## Result
