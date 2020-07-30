@@ -45,7 +45,7 @@ with tf.device("/gpu:0"):
 
 with tf.device("/gpu:1"):
     with tf.variable_scope('res_block_2'):
-        h3 = block_layer_remain(inputs=h2_1, filters=256, block_fn=block_fn, blocks=13, strides=1, is_training=is_training, name='block_layer4')
+        h3 = block_layer(inputs=h2_1, filters=256, block_fn=block_fn, blocks=13, strides=1, is_training=is_training, name='block_layer4')
         h3 = block_layer(inputs=h3, filters=512, block_fn=block_fn, blocks=layers[3], strides=2, is_training=is_training, name='block_layer5')
         h3 = batch_norm_relu(h3, is_training)
         logits = dense_layer(inputs=h3, name='logits')
