@@ -1,7 +1,9 @@
 # Local-critic-training
 ## Introduction
 
-This repository is the Tensorflow code for the paper [Local Critic Training for Model-Parallel Learning of Deep Neural Networks] for CIFAR-10.
+This repository is the Tensorflow code for the paper [Local Critic Training for Model-Parallel Learning of Deep Neural Networks]. 
+
+These codes are examples for CIFAR-10 with ResNet-101.
 
 For any question or suggestions, feel free to contact hjlee92@yonsei.ac.kr
 
