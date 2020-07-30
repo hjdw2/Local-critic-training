@@ -19,9 +19,5 @@ Clone and cd into the repo directory, run for LCT_n1:
 python LCT_n1.py 
 ``` 
 
-## Result
 
-**Note**
- 
-## Citation 
 
