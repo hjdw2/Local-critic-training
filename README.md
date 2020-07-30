@@ -16,7 +16,9 @@ For any question or suggestions, feel free to contact hjlee92@yonsei.ac.kr
 
 ## Run
 
-Clone and cd into the repo directory, run for LCT_n1: 
+Clone and cd into the repo directory and extract CIFAR-10 data to the same directory, 
+
+run for LCT_n1: 
 ```
 python LCT_n1.py 
 ``` 
