@@ -1,7 +1,7 @@
 # Local-critic-training
 ## Introduction
 
-This repository is the Tensorflow code for the paper [Local critic training]
+This repository is the Tensorflow code for the paper [Local Critic Training for Model-Parallel Learning of Deep Neural Networks] for CIFAR-10.
 
 For any question or suggestions, feel free to contact hjlee92@yonsei.ac.kr
 
@@ -14,9 +14,9 @@ For any question or suggestions, feel free to contact hjlee92@yonsei.ac.kr
 
 ## Run
 
-Clone and cd into the repo directory, run for LC (3): 
+Clone and cd into the repo directory, run for LCT_n1: 
 ```
-python LC_k_3_paral_modi_101.py.py 
+python LCT_n1.py 
 ``` 
 
 ## Result
@@ -25,11 +25,3 @@ python LC_k_3_paral_modi_101.py.py
  
 ## Citation 
 
-```latex
-@article{lee19,
-  title={Local critic training},
-  author={Hojung, Lee and Jong-seok, Lee},
-  journal={arXiv},
-  year={2019}
-}
-```
