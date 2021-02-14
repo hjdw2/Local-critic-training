@@ -23,5 +23,15 @@ run for LCT_n1:
 python LCT_n1.py 
 ``` 
 
+## Citation 
+
+```latex
+@ARTICLE{lee2021,
+  author={H. {Lee} and C.-J. {Hsieh} and J.-S. {Lee}},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Local critic training for model-parallel learning of deep neural networks}, 
+  year={2021},
+  doi={10.1109/TNNLS.2021.3057380}}
+```
 
 
