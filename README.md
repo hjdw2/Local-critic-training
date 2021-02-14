@@ -27,7 +27,7 @@ python LCT_n1.py
 
 ```latex
 @ARTICLE{lee2021,
-  author={H. {Lee} and C.-J. {Hsieh} and J.-S. {Lee}},
+  author={H. Lee and C.-J. Hsieh and J.-S. Lee},
   journal={IEEE Transactions on Neural Networks and Learning Systems}, 
   title={Local Critic Training for Model-Parallel Learning of Deep Neural Networks}, 
   year={2021},
