@@ -26,11 +26,14 @@ python LCT_n1.py
 ## Citation 
 
 ```latex
-@ARTICLE{lee2021,
-  author={H. Lee and C.-J. Hsieh and J.-S. Lee},
+@ARTICLE{9358982,
+  author={H. {Lee} and C. -J. {Hsieh} and J. -S. {Lee}},
   journal={IEEE Transactions on Neural Networks and Learning Systems}, 
   title={Local Critic Training for Model-Parallel Learning of Deep Neural Networks}, 
   year={2021},
+  volume={},
+  number={},
+  pages={1-13},
   doi={10.1109/TNNLS.2021.3057380}}
 ```
 
