@@ -30,10 +30,10 @@ python LCT_n1.py
   author={H. {Lee} and C. -J. {Hsieh} and J. -S. {Lee}},
   journal={IEEE Transactions on Neural Networks and Learning Systems}, 
   title={Local Critic Training for Model-Parallel Learning of Deep Neural Networks}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={1-13},
+  year={2022},
+  volume={33},
+  number={9},
+  pages={4424-4436},
   doi={10.1109/TNNLS.2021.3057380}}
 ```
 
